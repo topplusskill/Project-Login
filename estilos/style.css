@@ -4,6 +4,9 @@
    Paleta de Cores
    Verde: #49a09d
    Lilás: #5f2c82
+
+   Amarelo: #fcd183
+   Azul: #1f85c0
 */
 
 * {
@@ -37,6 +40,9 @@ section#login {
     height: 500px;
     border-radius: 20px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.459);
+
+    transition: width 0.3s, height 0.3s;
+    transition-timing-function: ease;
 }
 
 section#login > div#imagem {
