@@ -18,5 +18,4 @@ Como Rodar o Projeto
 
 Para rodar este projeto localmente:
 
-	1.	Baixe ou clone o repositório:
- git clone https://github.com/pablog-7/login-project.git
+	•	Baixe ou clone o repositório: git clone https://github.com/PabloG-7/calculadora-pablo.git
