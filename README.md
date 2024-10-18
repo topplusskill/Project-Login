@@ -13,9 +13,3 @@ Tecnologias Utilizadas
 
 	•	HTML5: estrutura do formulário de login.
 	•	CSS3: estilização do formulário e layout responsivo.
-
-Como Rodar o Projeto
-
-Para rodar este projeto localmente:
-
-	•	Baixe ou clone o repositório: git clone https://github.com/PabloG-7/calculadora-pablo.git
