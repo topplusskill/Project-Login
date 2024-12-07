@@ -21,4 +21,4 @@ Este é um projeto de uma página de login simples, desenvolvido com *HTML* e *C
    ```bash
    git clone https://github.com/PabloG-7/projeto-login.git
 
-[Sistema de Login Pablo - Clique aqui para acessar](https://pablog-7.github.io/projeto-login/)
+[Login Page - Clique aqui para acessar](https://pablog-7.github.io/projeto-login/)
