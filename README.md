@@ -1,19 +1,24 @@
-Sistema de Login Pablo
+# Login Page - Projeto Responsivo
 
-Este projeto é uma página de login simples, desenvolvida para praticar conceitos de HTML e CSS.
+Este é um projeto de uma página de login simples, desenvolvido com *HTML* e *CSS*. O design é responsivo, garantindo que o site funcione bem em dispositivos de diferentes tamanhos de tela.
 
-## Funcionalidades
+## ✨ Funcionalidades
 
-	•	Formulário de Login: permite que os usuários insiram seu nome de usuário e senha.
-	•	Validação Básica de Interface: os campos são estilizados para mostrar a interação com o usuário.
-	•	Design Responsivo: a interface se adapta a diferentes tamanhos de tela, sendo amigável para dispositivos móveis.
-	•	Estilização Personalizada: layout visual moderno, utilizando apenas CSS.
+- Interface de login simples e intuitiva.
+- Design responsivo, adaptável a telas de dispositivos móveis, tablets e desktops.
+- Campos de entrada para *e-mail/usuário* e *senha*.
+- Botão para enviar as informações de login.
+- Link para recuperação de senha ("Esqueceu a senha?").
 
-## Tecnologias Utilizadas
+## 🛠 Tecnologias Utilizadas
 
-	•	HTML5: estrutura do formulário de login.
-	•	CSS3: estilização do formulário e layout responsivo.
+- *HTML5*: Estrutura do conteúdo da página.
+- *CSS3*: Estilo e design responsivo.
 
- ## Acesse o Projeto
+## 🚀 Como Executar o Projeto
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/PabloG-7/projeto-login.git
 
 [Sistema de Login Pablo - Clique aqui para acessar](https://pablog-7.github.io/projeto-login/)
